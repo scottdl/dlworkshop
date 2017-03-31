@@ -3,8 +3,7 @@
 
 void hello1(void)
 {
-	const char msg[]="This literal is displaed on standard output";
-	printf(msg);
+	printf("This literal is displaed on standard output");
 }
 
 void hello2(void)
